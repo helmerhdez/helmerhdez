@@ -1,6 +1,12 @@
-<h2 align="left">Hi 👋! My name is Helmer Hernandez</h2>
+<h1 align="left">
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemQzOTc1ZTNyYnpmMHRxcGwwMnM5dzBrMXB0MTl1bjZjZWxzdGwyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0BKpqAaJczduXXJ6/giphy.webp" width="300px"/>
+Hi 👋! My name is Helmer Hernandez
+</h1>
 
-# 📧 Contact Me  
+<br/>
+<br/>
+
+# 📧 Contact Me 
 
 <div align="center">
   <a href="https://discord.com/channels/helmerhdez" target="_blank">
@@ -25,9 +31,8 @@
 
 ###
 
-# 💻 About Me  
-
-I am a software developer with experience in **frontend** and **backend**, currently specializing in **backend development** with Java. My programming journey began at the age of 14 when I created a game for a school project. Since then, I’ve been refining my technical skills and fostering a deep passion for technology.  
+# 💻 About Me
+I am a software developer with experience in **frontend** and **backend**, currently specializing in **backend development** with Java. My programming journey began at the age of 14 when I created a game for a school project. Since then, I’ve been refining my technical skills and fostering a deep passion for technology.
 
 ## 🎯 Experience  
 - **Full Stack Developer**:  
@@ -97,8 +102,8 @@ I am a software developer with experience in **frontend** and **backend**, curre
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/helmerhdez/helmerhdez/output/snake.svg" alt="Snake animation" />
+<div align="center">
+<img width="200px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRlbms2OGkzNWh4eHBlZjlpdjUwbnc5a3RxeTl1d2k0ajd2NGkyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Z02vuppxP1Pa/200.webp" />
+</div>
 
 ###
-
